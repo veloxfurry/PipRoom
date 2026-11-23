@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">PIPROOM ocean mark</title>
+  <desc id="desc">Three flowing ocean lines in a dark rounded square.</desc>
+  <rect x="2" y="2" width="60" height="60" rx="17" fill="#102431" stroke="#244655"/>
+  <path d="M12 24 C18 15 27 15 34 22 C41 29 46 29 53 21" fill="none" stroke="#38B4D2" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M11 37 C19 28 28 28 35 35 C42 42 47 42 54 34" fill="none" stroke="#168AAD" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M14 49 C22 42 29 43 36 48" fill="none" stroke="#7CD2E2" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
