@@ -100,4 +100,5 @@ PIPROOM is currently designed for **Windows**.
 
 ## License
 
-No license has been specified yet. All rights remain with the project owner unless a license is added to this repository.
+PIPROOM is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for details.
